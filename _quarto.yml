@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Amandeep Singh"
+
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: software.qmd
+        text: Software
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+
+    #right:
+      # We'll add icons later:
+      # - icon: github
+      #   href: https://github.com/AmandeepQLab
+      # - icon: google
+      #   href: https://scholar.google.com/...
+      # - icon: envelope
+      #   href: mailto:...
+
+  page-footer:
+    left: |
+      © 2026 Amandeep Singh
+    right: |
+      Built with Quarto
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: false
+    smooth-scroll: true

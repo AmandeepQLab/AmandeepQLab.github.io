@@ -1,0 +1,41 @@
+---
+title: ""
+---
+
+# Amandeep Singh
+
+## Experimental Quantum Physicist
+
+**Postdoctoral Fellow**  
+Institute of Applied Physics  
+The Hebrew University of Jerusalem
+
+---
+
+### Research
+
+I develop solid-state defects for quantum sensing and quantum technologies, with research spanning quantum sensing, quantum magnetic imaging, quantum control, scientific instrumentation, nanofabrication, and open-source software.
+
+---
+
+### Current Research Areas
+
+- Quantum Sensing
+- Quantum Magnetic Imaging
+- Quantum Control
+- Scientific Software
+- Nanofabrication & Characterization
+
+---
+
+### Featured Projects
+
+- NV Control Framework (Python)
+- Microwave-Free Quantum Magnetic Imaging
+- Event Camera-Based Quantum Magnetic Imaging
+- Lock-in Camera-Based Quantum Magnetic Imaging
+- Quantum Machines OPX Control
+
+---
+
+*Professional website currently under development.*

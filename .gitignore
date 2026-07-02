@@ -1,0 +1,14 @@
+# Quarto cache
+/.quarto/
+
+# Temporary notebook files
+**/*.quarto_ipynb
+
+# Generated website (do not commit)
+_site/
+
+# macOS
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
