@@ -7,38 +7,51 @@ website:
 
   navbar:
     pinned: true
+
     left:
       - href: index.qmd
         text: Home
-      - href: research.qmd
+
+      - href: pages/research.qmd
         text: Research
-      - href: projects.qmd
+
+      - href: pages/projects.qmd
         text: Projects
-      - href: publications.qmd
+
+      - href: pages/publications.qmd
         text: Publications
-      - href: software.qmd
+
+      - href: pages/software.qmd
         text: Software
-      - href: teaching.qmd
+
+      - href: pages/teaching.qmd
         text: Teaching
-      - href: cv.qmd
+
+      - href: pages/cv.qmd
         text: CV
-      - href: contact.qmd
+
+      - href: pages/contact.qmd
         text: Contact
 
     #right:
-      # We'll add icons later:
+      # Uncomment when ready
       # - icon: github
       #   href: https://github.com/AmandeepQLab
+      #
       # - icon: google
-      #   href: https://scholar.google.com/...
+      #   href: https://scholar.google.com/
+      #
+      # - icon: linkedin
+      #   href: https://www.linkedin.com/
+      #
       # - icon: envelope
-      #   href: mailto:...
+      #   href: mailto:your.email@domain.com
 
   page-footer:
     left: |
       © 2026 Amandeep Singh
     right: |
-      Built with Quarto
+      Built with Quarto using Quarto
 
 format:
   html:
@@ -46,3 +59,7 @@ format:
     css: styles.css
     toc: false
     smooth-scroll: true
+    page-layout: full
+
+execute:
+  freeze: auto

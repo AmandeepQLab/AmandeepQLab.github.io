@@ -1,41 +1,72 @@
 ---
 title: ""
+page-layout: full
 ---
+
+::: {.columns}
+
+:::: {.column width="65%"}
 
 # Amandeep Singh
 
 ## Experimental Quantum Physicist
 
-**Postdoctoral Fellow**  
+**Postdoctoral Fellow**
+
 Institute of Applied Physics  
 The Hebrew University of Jerusalem
 
 ---
 
-### Research
+### Research Mission
 
-I develop solid-state defects for quantum sensing and quantum technologies, with research spanning quantum sensing, quantum magnetic imaging, quantum control, scientific instrumentation, nanofabrication, and open-source software.
+Developing **solid-state defects for quantum sensing and quantum technologies**, combining experimental physics, quantum control, scientific instrumentation, and open-source software to build next-generation quantum sensing platforms.
 
----
+<br>
 
-### Current Research Areas
+<a class="btn btn-primary" href="pages/research.html">Research</a>
+<a class="btn btn-outline-primary" href="pages/publications.html">Publications</a>
+<a class="btn btn-outline-primary" href="pages/software.html">Software</a>
+<a class="btn btn-outline-primary" href="pages/cv.html">CV</a>
 
-- Quantum Sensing
-- Quantum Magnetic Imaging
-- Quantum Control
-- Scientific Software
-- Nanofabrication & Characterization
+::::
 
----
+:::: {.column width="35%"}
 
-### Featured Projects
+![](assets/images/profile/profile.jpg){fig-alt="Amandeep Singh" width="100%"}
 
-- NV Control Framework (Python)
-- Microwave-Free Quantum Magnetic Imaging
-- Event Camera-Based Quantum Magnetic Imaging
-- Lock-in Camera-Based Quantum Magnetic Imaging
-- Quantum Machines OPX Control
+::::
+
+:::
 
 ---
 
-*Professional website currently under development.*
+# Research Highlights
+
+### Quantum Sensing
+
+Diamond NV centers, precision magnetometry and quantum sensing.
+
+---
+
+### Quantum Magnetic Imaging
+
+Widefield ODMR, microwave-free imaging, event-camera imaging and lock-in imaging.
+
+---
+
+### Quantum Control
+
+Pulse engineering, Quantum Machines OPX, synchronized instrumentation.
+
+---
+
+### Scientific Software
+
+Python-based experimental control, automation and data analysis.
+
+---
+
+### Nanofabrication
+
+Diamond device fabrication and material characterization.
