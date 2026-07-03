@@ -2,8 +2,8 @@ name: Publish Quarto Website
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -16,18 +16,20 @@ concurrency:
 
 jobs:
   build-deploy:
-
     runs-on: ubuntu-latest
 
-    steps:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
+    steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      - name: Install Quarto
+      - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Render website
@@ -36,7 +38,7 @@ jobs:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: _site
+          path: ./_site
 
       - name: Deploy to GitHub Pages
         id: deployment
