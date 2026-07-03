@@ -250,3 +250,63 @@ hr {
     font-weight: 600;
     text-decoration: none;
 }
+/* ==========================================================
+   Mermaid Diagrams
+   ========================================================== */
+
+.mermaid {
+    background: #ffffff;
+    border-radius: 18px;
+    padding: 2rem;
+    margin: 2rem 0;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+}
+/* ==========================================================
+   Project Hero
+   ========================================================== */
+
+.hero-buttons {
+    margin: 2rem 0;
+}
+
+.hero-buttons .btn {
+    margin-right: 0.8rem;
+    margin-bottom: 0.8rem;
+}
+
+table {
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+table th {
+    background: #0b3d91;
+    color: white;
+}
+
+table td,
+table th {
+    padding: 0.8rem;
+}
+/* ==========================================================
+   Architecture Figures
+   ========================================================== */
+
+figure {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+figure img {
+    border-radius: 14px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+    max-width: 100%;
+}
+
+figcaption {
+    font-size: 0.95rem;
+    color: #666;
+    margin-top: 0.75rem;
+    font-style: italic;
+}

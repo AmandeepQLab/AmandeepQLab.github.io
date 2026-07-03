@@ -4,9 +4,58 @@ page-layout: full
 toc: true
 ---
 
-# NV Control Framework
 
-## Modular experimental control software for diamond NV center experiments
+## Modular Python framework for experimental control of diamond NV center systems
+
+<div class="hero-buttons">
+
+[GitHub Repository](#){.btn .btn-primary}
+
+[Documentation](#){.btn .btn-outline-primary}
+
+[Development Roadmap](#development-roadmap){.btn .btn-outline-primary}
+
+</div>
+
+---
+
+::: {.grid}
+
+::: {.g-col-6 .g-col-lg-3}
+
+### Status
+
+🟢 Active Development
+
+:::
+
+::: {.g-col-6 .g-col-lg-3}
+
+### Language
+
+Python
+
+:::
+
+::: {.g-col-6 .g-col-lg-3}
+
+### Architecture
+
+Modular OOP
+
+:::
+
+::: {.g-col-6 .g-col-lg-3}
+
+### Platform
+
+Cross Platform
+
+:::
+
+:::
+
+---
 
 ---
 
@@ -37,17 +86,73 @@ The NV Control Framework addresses these challenges through:
 
 ## Current Capabilities
 
-| Module | Status |
-|---------|:------:|
-| Hardware Abstraction | ✅ |
-| ODMR Measurements | ✅ |
-| Pulse Sequence Control | ✅ |
-| Scientific Cameras | ✅ |
-| Motion Stages | ✅ |
-| Power Supplies | ✅ |
-| GUI Framework | 🚧 |
-| Data Management | 🚧 |
-| Quantum Machines OPX | Planned |
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.project-card}
+
+### Instrument Control
+
+- Scientific cameras
+- Microwave sources
+- Motion stages
+- Pulse generators
+- Power supplies
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.project-card}
+
+### Experiment Framework
+
+- ODMR
+- Pulse sequencing
+- Experiment management
+- Automation
+- Data acquisition
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.project-card}
+
+### Software Engineering
+
+- Modular architecture
+- Hardware abstraction
+- JSON configuration
+- Object-oriented design
+- Git version control
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.project-card}
+
+### Future Development
+
+- Rabi
+- Ramsey
+- T₁ / T₂
+- Live imaging
+- Quantum Machines OPX
+
+:::
+
+:::
+
+:::
 
 ---
 
@@ -85,23 +190,27 @@ Each layer has a clearly defined responsibility, allowing new hardware and exper
 
 ---
 
-## Architecture Diagram
+### Software Architecture
 
-*An interactive software architecture diagram will be added in the next development sprint.*
+The NV Control Framework is organized as a modular, layered software architecture that separates user interaction, experiment logic, hardware abstraction, configuration management, and the physical experimental platform. This design enables new hardware devices and experimental protocols to be integrated without modifying the overall framework.
 
+![](assets/architecture_v1.png){fig-alt="NV Control Framework Architecture" width=100%}
+
+*Figure 1. Architecture of the NV Control Framework (Version 1.0).*
 ---
 
 ## Development Roadmap
 
-| Version | Planned Features |
-|----------|------------------|
-| v0.1 | ODMR |
-| v0.2 | Rabi |
-| v0.3 | Ramsey |
-| v0.4 | T₁ / T₂ |
-| v0.5 | Live Imaging |
-| v0.6 | Quantum Machines OPX |
-| v1.0 | Stable Public Release |
+| Version | Major Milestone | Status |
+|----------|-----------------|--------|
+| v0.1 | ODMR Framework | ✅ Complete |
+| v0.2 | GUI Development | 🚧 In Progress |
+| v0.3 | Rabi Measurements | Planned |
+| v0.4 | Ramsey Measurements | Planned |
+| v0.5 | T₁ / T₂ | Planned |
+| v0.6 | Live Imaging | Planned |
+| v0.7 | Quantum Machines OPX | Planned |
+| v1.0 | Stable Release | Target |
 
 ---
 
@@ -120,8 +229,14 @@ The long-term objective is to create a reusable software platform for quantum se
 
 ---
 
-## Related Pages
+---
 
-- [Research Portfolio](../index.qmd)
-- [Software](../../pages/software.qmd)
+## Continue Exploring
+
+- [← Research Portfolio](../index.qmd)
+
 - [Research](../../pages/research.qmd)
+
+- [Software](../../pages/software.qmd)
+
+- [Homepage](../../index.qmd)
