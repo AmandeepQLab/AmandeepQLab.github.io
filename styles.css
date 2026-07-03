@@ -103,3 +103,19 @@ hr {
 .grid {
     margin-top: 3rem;
 }
+/* ==========================================================
+   Featured Project Cards
+   ========================================================== */
+
+.card {
+    transition: transform 0.25s ease,
+                box-shadow 0.25s ease;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+}
+
+.card strong {
+    color: #0b5394;
+}

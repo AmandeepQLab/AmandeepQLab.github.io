@@ -150,15 +150,57 @@ My long-term goal is to develop scalable quantum sensing systems capable of enab
 
 # Featured Projects
 
-*This section will highlight the flagship projects that define my current research program.*
+::: {.grid}
 
-- **NV Control Framework** — Modular Python framework for controlling diamond NV center experiments.
-- **Microwave-Free Quantum Magnetic Imaging** — Next-generation magnetic imaging using high-density NV ensembles.
-- **Event Camera Quantum Imaging** — High-speed quantum imaging using neuromorphic event-based vision sensors.
-- **Quantum Machines OPX Control** — Real-time quantum experiment control and pulse sequence development.
+::: {.g-col-12 .g-col-lg-4}
 
-[Explore All Projects →](pages/projects.qmd)
+::: {.card}
 
+### NV Control Framework
+
+A modular Python framework for controlling diamond NV center experiments, integrating hardware drivers, experiment logic, graphical interfaces, and data acquisition into a scalable architecture.
+
+**Status:** 🟢 Active Development
+
+[Explore Project →](pages/projects.qmd)
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-lg-4}
+
+::: {.card}
+
+### Microwave-Free Quantum Magnetic Imaging
+
+Developing microwave-free quantum magnetic imaging using high-density diamond NV ensembles for robust and scalable sensing.
+
+**Status:** 🟢 Active Research
+
+[Explore Project →](pages/projects.qmd)
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-lg-4}
+
+::: {.card}
+
+### Event Camera Quantum Imaging
+
+Developing high-speed quantum magnetic imaging using neuromorphic event-based cameras for ultrafast magnetic field measurements.
+
+**Status:** 🟢 Active Research
+
+[Explore Project →](pages/projects.qmd)
+
+:::
+
+:::
+
+:::
 ---
 
 # Selected Publications
