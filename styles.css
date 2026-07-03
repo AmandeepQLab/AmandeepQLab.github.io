@@ -119,3 +119,134 @@ hr {
 .card strong {
     color: #0b5394;
 }
+/* ==========================================================
+   Homepage Hero
+   ========================================================== */
+
+.hero {
+    padding: 4rem 0;
+}
+
+.hero h1 {
+    font-size: 2.4rem;
+    line-height: 1.25;
+    font-weight: 700;
+    color: #0b3d91;
+    margin-bottom: 1.5rem;
+}
+
+.hero h2 {
+    font-size: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.hero p {
+    font-size: 1.1rem;
+}
+
+.hero-buttons {
+    margin-top: 2rem;
+}
+
+.hero-buttons .btn {
+    margin-right: 0.6rem;
+    margin-bottom: 0.6rem;
+    border-radius: 30px;
+    padding: 0.6rem 1.4rem;
+    font-weight: 600;
+}
+
+.profile-photo {
+    width: 90%;
+    max-width: 340px;
+    border-radius: 18px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    display: block;
+    margin: auto;
+}
+/* ==========================================================
+   Research Pillars
+   ========================================================== */
+
+.research-card {
+    background: #ffffff;
+    border: 1px solid #e8e8e8;
+    border-radius: 18px;
+    padding: 2rem;
+    height: 100%;
+    transition: all 0.25s ease;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.research-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 30px rgba(0,0,0,0.12);
+}
+
+.research-card h2 {
+    font-size: 1.45rem;
+    margin-bottom: 1rem;
+    color: #0b3d91;
+}
+
+.research-card p {
+    margin-bottom: 1.2rem;
+}
+
+.research-card ul {
+    margin-bottom: 1.5rem;
+    padding-left: 1.2rem;
+}
+
+.research-card a {
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.research-card a:hover {
+    text-decoration: underline;
+}
+/* ==========================================================
+   Featured Projects
+   ========================================================== */
+
+.project-card {
+    background: #ffffff;
+    border-radius: 18px;
+    border: 1px solid #e6e6e6;
+    padding: 2rem;
+    height: 100%;
+    transition: all 0.25s ease;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.project-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 30px rgba(0,0,0,0.12);
+}
+
+.project-card h2 {
+    color: #0b3d91;
+    margin: 1rem 0;
+    font-size: 1.5rem;
+}
+
+.status-active {
+    display: inline-block;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: #198754;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.8rem;
+}
+
+.project-card p {
+    margin-bottom: 1rem;
+}
+
+.project-card a {
+    font-weight: 600;
+    text-decoration: none;
+}

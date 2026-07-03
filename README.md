@@ -81,6 +81,23 @@ Every push to the **main** branch automatically deploys the website using GitHub
 
 ---
 
+## GitHub Actions Configuration
+
+For automatic deployment to GitHub Pages:
+
+1. Go to **Settings → Actions → General**
+2. Under **Workflow permissions**, select:
+
+```
+Read and write permissions
+```
+
+3. Save the changes.
+
+Without this setting, GitHub Actions can build the website but will fail during the deployment step.
+
+---
+
 ## Contact
 
 Amandeep Singh

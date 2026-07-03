@@ -4,18 +4,18 @@ page-layout: full
 ---
 
 <!-- ========================================================= -->
-<!-- HERO SECTION                                               -->
+<!-- HERO SECTION -->
 <!-- ========================================================= -->
 
 ::: {.hero}
 
-::: {.columns}
+::: {.columns .v-center}
 
 :::: {.column width="60%"}
 
-# Amandeep Singh
+# Advancing quantum sensing through solid-state spin defects, precision instrumentation, and scientific software.
 
-## Building next-generation quantum sensing platforms through solid-state spin defects, advanced instrumentation, and scientific software.
+## Amandeep Singh
 
 **Experimental Quantum Physicist**
 
@@ -23,21 +23,21 @@ Postdoctoral Fellow
 Institute of Applied Physics  
 The Hebrew University of Jerusalem
 
-<div style="margin-top: 1.5rem;">
+<div class="hero-buttons">
 
 [Research](pages/research.qmd){.btn .btn-primary}
 [Projects](pages/projects.qmd){.btn .btn-outline-primary}
-[Publications](pages/publications.qmd){.btn .btn-outline-primary}
 [Software](pages/software.qmd){.btn .btn-outline-primary}
+[Publications](pages/publications.qmd){.btn .btn-outline-primary}
 [CV](pages/cv.qmd){.btn .btn-outline-primary}
 
 </div>
 
 ::::
 
-:::: {.column width="35%"}
+:::: {.column width="40%"}
 
-![](assets/images/profile/profile.jpg){fig-alt="Amandeep Singh" width="50%"}
+![](assets/images/profile/profile.jpg){.profile-photo fig-alt="Amandeep Singh"}
 
 ::::
 
@@ -45,30 +45,31 @@ The Hebrew University of Jerusalem
 
 :::
 
----
-
 # Research Vision
 
 I am an experimental quantum physicist developing next-generation quantum sensing technologies based on solid-state spin defects. My research combines **quantum sensing**, **quantum magnetic imaging**, **precision instrumentation**, **quantum control**, **scientific software**, and **nanofabrication** to create experimental platforms for quantum science and emerging quantum technologies.
 
-My long-term goal is to develop scalable quantum sensing systems capable of enabling high-sensitivity magnetic imaging, precision metrology, and real-world applications in physics, materials science, and the life sciences.
+My long-term research vision is to develop scalable quantum sensing platforms that bridge fundamental quantum physics with practical technologies for materials science, condensed matter physics, and biomedical applications. By integrating precision instrumentation, advanced quantum control, and scientific software, I aim to build experimental systems that enable new scientific discoveries and real-world quantum technologies.
 
 ---
 
-# Research Highlights
+# Research Pillars
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 
-::: {.card}
+::: {.research-card}
 
-### Quantum Sensing
+## ⚛ Quantum Sensing
+
+Developing quantum sensors based on solid-state spin defects for precision magnetic field sensing and metrology.
+
+**Key Technologies**
 
 - Diamond NV Centers
+- ODMR
 - Quantum Magnetometry
-- Precision Quantum Sensors
-- Spin Defect Physics
 
 [Explore →](pages/research.qmd)
 
@@ -78,14 +79,17 @@ My long-term goal is to develop scalable quantum sensing systems capable of enab
 
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 
-::: {.card}
+::: {.research-card}
 
-### Quantum Magnetic Imaging
+## 🧲 Quantum Magnetic Imaging
+
+Developing widefield imaging techniques for mapping magnetic fields with high spatial and temporal resolution.
+
+**Key Technologies**
 
 - Widefield ODMR
 - Microwave-Free Imaging
-- Event Camera Imaging
-- Lock-in Imaging
+- Event Cameras
 
 [Explore →](pages/research.qmd)
 
@@ -95,13 +99,16 @@ My long-term goal is to develop scalable quantum sensing systems capable of enab
 
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 
-::: {.card}
+::: {.research-card}
 
-### Quantum Control
+## ⚡ Quantum Control
+
+Building experimental control systems for synchronized quantum experiments.
+
+**Key Technologies**
 
 - Quantum Machines OPX
 - Pulse Engineering
-- Microwave Control
 - Experimental Automation
 
 [Explore →](pages/research.qmd)
@@ -112,14 +119,17 @@ My long-term goal is to develop scalable quantum sensing systems capable of enab
 
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-6}
 
-::: {.card}
+::: {.research-card}
 
-### Scientific Software
+## 💻 Scientific Software
+
+Designing modular software frameworks for experimental control, automation, and scientific data analysis.
+
+**Key Technologies**
 
 - NV Control Framework
-- Python Development
+- Python
 - Hardware Integration
-- Open Source
 
 [Explore →](pages/software.qmd)
 
@@ -129,14 +139,17 @@ My long-term goal is to develop scalable quantum sensing systems capable of enab
 
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-6}
 
-::: {.card}
+::: {.research-card}
 
-### Nanofabrication
+## 🔬 Nanofabrication
 
-- Diamond Device Fabrication
-- Microfabrication
+Developing quantum devices through advanced microfabrication and materials characterization.
+
+**Key Technologies**
+
+- Diamond Processing
+- Device Fabrication
 - Materials Characterization
-- Quantum Device Engineering
 
 [Explore →](pages/research.qmd)
 
@@ -154,13 +167,37 @@ My long-term goal is to develop scalable quantum sensing systems capable of enab
 
 ::: {.g-col-12 .g-col-lg-4}
 
-::: {.card}
+::: {.project-card}
 
-### NV Control Framework
+<span class="status-active">● Active Development</span>
 
-A modular Python framework for controlling diamond NV center experiments, integrating hardware drivers, experiment logic, graphical interfaces, and data acquisition into a scalable architecture.
+## NV Control Framework
 
-**Status:** 🟢 Active Development
+A modular Python framework for controlling and automating diamond NV center experiments with a scalable architecture for future instrumentation.
+
+**Technologies**
+
+Python • PySide6 • VISA • Quantum Machines • Pulse Streamer
+
+[Explore Project →](projects/nv-control/index.qmd)
+
+:::
+
+:::
+
+::: {.g-col-12 .g-col-lg-4}
+
+::: {.project-card}
+
+<span class="status-active">● Active Research</span>
+
+## Microwave-Free Quantum Magnetic Imaging
+
+Developing microwave-free magnetic imaging using high-density NV ensembles for robust quantum sensing.
+
+**Technologies**
+
+Widefield ODMR • High-PPM Diamond • Imaging
 
 [Explore Project →](pages/projects.qmd)
 
@@ -170,29 +207,17 @@ A modular Python framework for controlling diamond NV center experiments, integr
 
 ::: {.g-col-12 .g-col-lg-4}
 
-::: {.card}
+::: {.project-card}
 
-### Microwave-Free Quantum Magnetic Imaging
+<span class="status-active">● Active Research</span>
 
-Developing microwave-free quantum magnetic imaging using high-density diamond NV ensembles for robust and scalable sensing.
+## Event Camera Quantum Imaging
 
-**Status:** 🟢 Active Research
+Developing ultrafast quantum magnetic imaging using neuromorphic event-based vision sensors.
 
-[Explore Project →](pages/projects.qmd)
+**Technologies**
 
-:::
-
-:::
-
-::: {.g-col-12 .g-col-lg-4}
-
-::: {.card}
-
-### Event Camera Quantum Imaging
-
-Developing high-speed quantum magnetic imaging using neuromorphic event-based cameras for ultrafast magnetic field measurements.
-
-**Status:** 🟢 Active Research
+Event Camera • Widefield NV • High-Speed Imaging
 
 [Explore Project →](pages/projects.qmd)
 
@@ -201,6 +226,7 @@ Developing high-speed quantum magnetic imaging using neuromorphic event-based ca
 :::
 
 :::
+
 ---
 
 # Selected Publications

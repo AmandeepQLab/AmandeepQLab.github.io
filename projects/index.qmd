@@ -1,0 +1,43 @@
+---
+title: "Research Portfolio"
+---
+
+# Research Portfolio
+
+The projects below represent the major research and software initiatives that define my current research program. They combine quantum sensing, experimental instrumentation, scientific software, and quantum control.
+
+---
+
+## Active Projects
+
+### 🟢 NV Control Framework
+
+A modular Python framework for controlling and automating diamond NV center experiments.
+
+➡ **Status:** Active Development
+
+[Open Project →](nv-control/index.qmd)
+
+---
+
+### 🟢 Microwave-Free Quantum Magnetic Imaging
+
+Developing microwave-free magnetic imaging using high-density NV ensembles.
+
+➡ Active Research
+
+---
+
+### 🟢 Event Camera Quantum Imaging
+
+Developing ultrafast quantum magnetic imaging using neuromorphic event cameras.
+
+➡ Active Research
+
+---
+
+### 🟡 Quantum Machines OPX Integration
+
+Real-time experiment control and pulse programming.
+
+➡ In Development
