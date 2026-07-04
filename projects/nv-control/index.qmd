@@ -4,8 +4,6 @@ page-layout: full
 toc: false
 ---
 
-# NV Control Framework
-
 ## A modular Python framework for experimental control of diamond NV center systems
 
 The **NV Control Framework** is a modern Python software platform developed to automate and control nitrogen-vacancy (NV) center experiments. It provides a scalable architecture that separates hardware, experiment logic, and user interfaces, enabling rapid development of new quantum sensing experiments while maintaining clean and reusable code.
@@ -28,9 +26,7 @@ The **NV Control Framework** is a modern Python software platform developed to a
 <div class="hero-buttons">
 
 [GitHub Repository](#){.btn .btn-primary}
-
 [Software Architecture](#software-architecture){.btn .btn-outline-primary}
-
 [Development Roadmap](#development-roadmap){.btn .btn-outline-primary}
 
 </div>
