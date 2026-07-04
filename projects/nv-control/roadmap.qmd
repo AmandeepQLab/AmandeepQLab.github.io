@@ -1,0 +1,16 @@
+---
+title: "Project Roadmap"
+---
+
+# Project Roadmap
+
+| Version | Milestone | Status |
+|----------|-----------|--------|
+| v0.1 | ODMR Framework | ✅ |
+| v0.2 | GUI | 🚧 |
+| v0.3 | Rabi | Planned |
+| v0.4 | Ramsey | Planned |
+| v0.5 | T₁ / T₂ | Planned |
+| v0.6 | Imaging | Planned |
+| v0.7 | OPX Integration | Planned |
+| v1.0 | Stable Release | Target |

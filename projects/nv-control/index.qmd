@@ -1,23 +1,26 @@
 ---
 title: "NV Control Framework"
 page-layout: full
-toc: true
+toc: false
 ---
 
 
 ## Modular Python framework for experimental control of diamond NV center systems
 
+A modern, modular software framework for controlling and automating nitrogen-vacancy (NV) center experiments. The framework is designed around hardware abstraction, reusable experiment modules, and scalable software engineering principles to support long-term development of quantum sensing platforms.
+
 <div class="hero-buttons">
 
-[GitHub Repository](#){.btn .btn-primary}
-
-[Documentation](#){.btn .btn-outline-primary}
-
-[Development Roadmap](#development-roadmap){.btn .btn-outline-primary}
+[Architecture](architecture.qmd){.btn .btn-primary}
+[Hardware](hardware.qmd){.btn .btn-outline-primary}
+[Experiments](experiments.qmd){.btn .btn-outline-primary}
+[Project Roadmap](roadmap.qmd){.btn .btn-outline-primary}
 
 </div>
 
 ---
+
+## Project at a Glance
 
 ::: {.grid}
 
@@ -41,7 +44,7 @@ Python
 
 ### Architecture
 
-Modular OOP
+Modular Object-Oriented Design
 
 :::
 
@@ -57,30 +60,23 @@ Cross Platform
 
 ---
 
----
-
 ## Overview
 
-The **NV Control Framework** is an object-oriented Python platform for controlling and automating experiments based on nitrogen-vacancy (NV) centers in diamond.
+The NV Control Framework provides a unified software architecture for laboratory automation in diamond NV center experiments. It separates experiment logic from hardware implementation, enabling new instruments and measurement protocols to be integrated with minimal changes to the overall codebase.
 
-The framework provides a unified architecture for integrating laboratory hardware, experiment logic, graphical interfaces, and data acquisition into a scalable and maintainable software ecosystem.
+The framework currently supports widefield and confocal NV experiments and is designed to scale toward advanced quantum sensing applications, including real-time control with Quantum Machines OPX and high-speed imaging platforms.
 
 ---
 
-## Why This Framework?
+## Design Philosophy
 
-Modern quantum sensing experiments require the coordinated control of lasers, microwave sources, pulse generators, scientific cameras, motion stages, power supplies, and data acquisition systems.
-
-As laboratories evolve, software often becomes tightly coupled to specific hardware, making maintenance and expansion increasingly difficult.
-
-The NV Control Framework addresses these challenges through:
+The framework is built around five core principles:
 
 - Modular hardware abstraction
-- Reusable experiment classes
-- Instrument-independent APIs
+- Reusable experiment modules
+- Configuration-driven initialization
 - Scalable software architecture
-- Automated experiment workflows
-- Future-ready design
+- Documentation-driven development
 
 ---
 
@@ -94,11 +90,11 @@ The NV Control Framework addresses these challenges through:
 
 ### Instrument Control
 
-- Scientific cameras
-- Microwave sources
-- Motion stages
-- Pulse generators
-- Power supplies
+- Scientific Cameras
+- Microwave Sources
+- Motion Stages
+- Pulse Streamers
+- Power Supplies
 
 :::
 
@@ -108,13 +104,13 @@ The NV Control Framework addresses these challenges through:
 
 ::: {.project-card}
 
-### Experiment Framework
+### Experiment Modules
 
 - ODMR
-- Pulse sequencing
-- Experiment management
-- Automation
-- Data acquisition
+- Widefield ODMR
+- Automation Framework
+- Data Acquisition
+- Experiment Management
 
 :::
 
@@ -124,13 +120,13 @@ The NV Control Framework addresses these challenges through:
 
 ::: {.project-card}
 
-### Software Engineering
+### Software Infrastructure
 
-- Modular architecture
-- Hardware abstraction
-- JSON configuration
-- Object-oriented design
-- Git version control
+- Hardware Abstraction
+- JSON Configuration
+- Modular Architecture
+- Git Version Control
+- Automated Testing
 
 :::
 
@@ -140,12 +136,12 @@ The NV Control Framework addresses these challenges through:
 
 ::: {.project-card}
 
-### Future Development
+### Planned Features
 
 - Rabi
 - Ramsey
 - T₁ / T₂
-- Live imaging
+- Microwave-Free Imaging
 - Quantum Machines OPX
 
 :::
@@ -156,87 +152,33 @@ The NV Control Framework addresses these challenges through:
 
 ---
 
-## Supported Hardware
+## Software Architecture
 
-| Instrument | Status |
-|------------|:------:|
-| Andor Neo Camera | ✅ |
-| IDS Event Camera | ✅ |
-| SG384 Microwave Source | ✅ |
-| Swabian Pulse Streamer | ✅ |
-| SmarAct XYZ Stages | ✅ |
-| Keysight Power Supplies | ✅ |
-| Quantum Machines OPX | 🚧 |
+The framework follows a layered architecture that separates user interaction, experiment logic, hardware abstraction, configuration management, and the physical experimental platform.
 
----
-
-## Software Philosophy
-
-The framework follows a layered architecture:
-
-```
-Graphical User Interface
-            │
-Experiment Manager
-            │
-Experiment Classes
-            │
-Hardware Manager
-            │
-Instrument Drivers
-```
-
-Each layer has a clearly defined responsibility, allowing new hardware and experiments to be added with minimal changes to the rest of the framework.
-
----
-
-### Software Architecture
-
-The NV Control Framework is organized as a modular, layered software architecture that separates user interaction, experiment logic, hardware abstraction, configuration management, and the physical experimental platform. This design enables new hardware devices and experimental protocols to be integrated without modifying the overall framework.
-
-![](assets/architecture_v1.png){fig-alt="NV Control Framework Architecture" width=100%}
+![](assets/architecture_v1.png){width=100% fig-alt="NV Control Framework Architecture"}
 
 *Figure 1. Architecture of the NV Control Framework (Version 1.0).*
----
-
-## Development Roadmap
-
-| Version | Major Milestone | Status |
-|----------|-----------------|--------|
-| v0.1 | ODMR Framework | ✅ Complete |
-| v0.2 | GUI Development | 🚧 In Progress |
-| v0.3 | Rabi Measurements | Planned |
-| v0.4 | Ramsey Measurements | Planned |
-| v0.5 | T₁ / T₂ | Planned |
-| v0.6 | Live Imaging | Planned |
-| v0.7 | Quantum Machines OPX | Planned |
-| v1.0 | Stable Release | Target |
 
 ---
 
-## Open Source Development
+## Documentation
 
-The NV Control Framework is developed following modern software engineering principles including:
+Additional documentation is available in the following sections.
 
-- Modular design
-- Version control with Git
-- Continuous development
-- Automated testing
-- Hardware abstraction
-- Documentation-driven development
-
-The long-term objective is to create a reusable software platform for quantum sensing laboratories.
-
----
+| Section | Description |
+|---------|-------------|
+| **Architecture** | Software architecture and design philosophy |
+| **Hardware** | Supported instruments and drivers |
+| **Experiments** | Measurement modules and workflows |
+| **Roadmap** | Planned development milestones |
 
 ---
 
 ## Continue Exploring
 
+- [Architecture](architecture.qmd)
+- [Hardware](hardware.qmd)
+- [Experiments](experiments.qmd)
+- [Roadmap](roadmap.qmd)
 - [← Research Portfolio](../index.qmd)
-
-- [Research](../../pages/research.qmd)
-
-- [Software](../../pages/software.qmd)
-
-- [Homepage](../../index.qmd)
