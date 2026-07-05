@@ -331,3 +331,213 @@ h2 {
 table {
     margin-top: 1.5rem;
 }
+.pub-links {
+    margin: 0.4rem 0 0.8rem 0;
+}
+
+.pub-links a {
+    display: inline-block;
+    margin-right: 0.4rem;
+    margin-bottom: 0.2rem;
+    padding: 0.35rem 0.8rem;
+    border: 1px solid #0b3d91;
+    border-radius: 999px;
+    color: #0b3d91;
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+.pub-links a:hover {
+    background: #0b3d91;
+    color: white;
+    text-decoration: none;
+}
+/* ==========================================================
+   Publications & Activities
+   ========================================================== */
+
+/* Headings */
+
+main h1 {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+main h2 {
+    margin-top: 2rem;
+    margin-bottom: 0.6rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid #d9d9d9;
+}
+
+main h3 {
+    margin-top: 1.2rem;
+    margin-bottom: 0.4rem;
+}
+
+/* Horizontal rule */
+
+main hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid #e5e5e5;
+}
+
+/* Lists */
+
+main ul {
+    margin-top: 0.3rem;
+    margin-bottom: 0.6rem;
+    padding-left: 1.35rem;
+}
+
+main li {
+    margin-bottom: 1.1rem;
+    line-height: 1.55;
+}
+
+/* Paragraphs inside list items */
+
+main li p {
+    margin-top: 0.2rem;
+    margin-bottom: 0.25rem;
+}
+
+/* Publication titles */
+
+main li strong:first-child {
+    font-size: 1.03rem;
+    color: #1d3557;
+}
+
+/* Italic journal names */
+
+main em {
+    color: #555;
+}
+
+/* Links */
+
+main a {
+    text-decoration: none;
+    font-weight: 500;
+}
+
+main a:hover {
+    text-decoration: underline;
+}
+
+/* Small spacing between consecutive links */
+
+main a + a::before {
+    content: "  •  ";
+    color: #999;
+}
+
+/* Tables */
+
+table {
+    width: 100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+table td,
+table th {
+    padding: 0.45rem 0.5rem;
+}
+
+/* Images */
+
+img {
+    max-width: 100%;
+}
+
+/* Research Profile Cards */
+
+.profile-card {
+    border: 1px solid #e4e4e4;
+    border-radius: 10px;
+    padding: 1.2rem;
+    text-align: center;
+    transition: all 0.2s ease;
+    height: 100%;
+    background: white;
+}
+
+.profile-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+}
+
+.profile-card img {
+    margin-bottom: 0.75rem;
+}
+
+.profile-card h3 {
+    margin-top: 0.4rem;
+    margin-bottom: 0.4rem;
+}
+
+.profile-card p {
+    margin-bottom: 0.7rem;
+    font-size: 0.93rem;
+}
+
+/* Compact page spacing */
+
+main {
+    line-height: 1.6;
+}
+
+/* Remove excessive spacing after headings */
+
+h2 + ul,
+h2 + p {
+    margin-top: 0.4rem;
+}
+
+h3 + p {
+    margin-top: 0.2rem;
+}
+
+/* TOC */
+
+#TOC {
+    font-size: 0.92rem;
+}
+
+#TOC ul {
+    padding-left: 1rem;
+}
+
+#TOC li {
+    margin-bottom: 0.3rem;
+}
+/* ==========================================================
+   Research Profile Icons
+   ========================================================== */
+
+.research-profiles {
+    display: flex;
+    gap: 18px;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 0.5rem;
+}
+
+.research-profiles a {
+    display: inline-flex;
+    transition: transform 0.2s ease;
+}
+
+.research-profiles a:hover {
+    transform: scale(1.15);
+}
+
+.research-profiles img {
+    display: block;
+}

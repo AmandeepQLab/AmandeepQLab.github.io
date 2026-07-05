@@ -1,3 +1,353 @@
+---
+title: "Publications & Activities"
+page-layout: full
+toc: true
+---
+
 # Publications
 
-This page is under construction.
+My research focuses on **quantum information processing**, **quantum sensing**, **nitrogen-vacancy (NV) centers in diamond**, **quantum magnetic imaging**, and the development of experimental platforms for quantum technologies.
+
+---
+
+- **Quantum Imaging of Ferromagnetic van der Waals Magnetic Domain Structures at Ambient Conditions**
+
+  Bindu*, **Amandeep Singh***, Amir Hen, Lukas Drago Čavar, Sebastian Maria Ulrich Schultheis, Israel Felner, Shira Yochelis, Yossi Paltiel, Andrew F. May, Angela Wittmann, Mathias Kläui, Dmitry Budker, Hadar Steinberg and Nir Bar-Gill.
+
+  *ACS Applied Materials & Interfaces* **17**, 63956–63967 (2025)
+
+  [Journal](https://pubs.acs.org/doi/10.1021/acsami.5c16352)
+
+  *\*Equal contribution.*
+
+---
+
+- **Experimental quantum principal component analysis via parameterized quantum circuits**
+
+  Tao Xin, Liangyu Che, Cheng Xi, **Amandeep Singh**, Xinfang Nie, Jun Li, Ying Dong and Dawei Lu.
+
+  *Physical Review Letters* **126**, 110502 (2021)
+
+  [Journal](https://doi.org/10.1103/PhysRevLett.126.110502)
+
+---
+
+- **Experimental Detection of Non-local Correlations using a Local Measurement-Based Hierarchy on an NMR Quantum Processor**
+
+  **Amandeep Singh**, Kavita Dorai and Arvind.
+
+  *European Physical Journal D* **74**, 168 (2020)
+
+  [Journal](https://doi.org/10.1140/epjd/e2020-10173-9)
+
+---
+
+- **Simulating the Effect of Weak Measurements by a Phase Damping Channel and Determining Different Measures of Bipartite Correlations in Nuclear Magnetic Resonance**
+
+  Akanksha Gautam, Varad R. Pande, **Amandeep Singh**, Kavita Dorai and Arvind.
+
+  *Physics Letters A* **384**(30), 126760 (2020)
+
+  [Journal](https://doi.org/10.1016/j.physleta.2020.126760)
+
+---
+
+- **Experimental Detection of Qubit–Ququart Pseudo-Bound Entanglement using Three Nuclear Spins**
+
+  **Amandeep Singh**, Akanksha Gautam, Kavita Dorai and Arvind.
+
+  *Physics Letters A* **383**(14), 1549–1554 (2019)
+
+  [Journal](https://doi.org/10.1016/j.physleta.2019.02.027)
+
+---
+
+- **Experimentally Identifying the Entanglement Class of Pure Tripartite States**
+
+  **Amandeep Singh**, Kavita Dorai and Arvind.
+
+  *Quantum Information Processing* **17**, 334 (2018)
+
+  [Journal](https://doi.org/10.1007/s11128-018-2105-5)
+
+---
+
+- **Experimental Classification of Entanglement in Arbitrary Three-Qubit Pure States on an NMR Quantum Information Processor**
+
+  **Amandeep Singh**, Harpreet Singh, Kavita Dorai and Arvind.
+
+  *Physical Review A* **98**, 032301 (2018)
+
+  [Journal](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.032301)
+
+---
+
+- **Experimental Demonstration of Selective Quantum Process Tomography on an NMR Quantum Information Processor**
+
+  Akshay Gaikwad, Diksha Rehal, **Amandeep Singh**, Arvind and Kavita Dorai.
+
+  *Physical Review A* **97**, 022311 (2018)
+
+  [Journal](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.022311)
+
+---
+
+- **Witnessing Nonclassical Correlations via a Single-Shot Experiment on an Ensemble of Spins using NMR**
+
+  **Amandeep Singh**, Arvind and Kavita Dorai.
+
+  *Physical Review A* **95**, 062318 (2017)
+
+  [Journal](http://journals.aps.org/pra/abstract/10.1103/PhysRevA.95.062318)
+
+---
+
+- **Entanglement Detection on an NMR Quantum Information Processor using Random Local Measurements**
+
+  **Amandeep Singh**, Arvind and Kavita Dorai.
+
+  *Physical Review A* **94**, 062309 (2016)
+
+  [Journal](http://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.062309)
+
+---
+
+# PhD Thesis
+
+- **Generation and Detection of Quantum Correlations and Entanglement on a Spin-Based Quantum Information Processor**
+
+  Indian Institute of Science Education and Research Mohali (2019)
+
+  [arXiv](https://arxiv.org/abs/1905.06121)
+
+---
+# Scientific Activities
+
+
+---
+
+# Conferences, Research Visits & Workshops
+
+- **MUQUABIS – Horizon Europe Project**, Berlin, Germany (10–12 Mar 2026)
+
+  Delivered the invited talk *"Bioimaging and Sensing Using Solid State Defects"* during the **MUQUABIS 2nd Collaboration Meeting** at the **Max Born Institute for Nonlinear Optics and Short Pulse Spectroscopy (MBI)**.
+
+  [Project](https://www.muquabis.eu/) ·
+  [Meeting](https://drive.google.com/file/d/1Xa2FG0O4guhIvKdSiTS1wzn3z5Wv8rbV/view?usp=sharing) ·
+  [Presentation](https://docs.google.com/presentation/d/1plGygwnNUg5iCnzbuTQFsAHf9CKcl80O/edit?usp=drive_link&ouid=101270128518525601227&rtpof=true&sd=true)
+
+---
+
+- **Research Visitor**, Technical University of Munich, Munich, Germany (Aug 2025)
+
+  Research visit to the laboratory of **Prof. Dominik Bucher**.
+
+  [TUM](https://www.tum.de/en/) ·
+  [Prof. Dominik Bucher](https://www.professoren.tum.de/en/bucher-dominik)
+
+---
+
+- **Research Visitor**, Helmholtz Institute Mainz, Germany (Aug 2025)
+
+  Research visit to the laboratory of **Prof. Dmitry Budker**.
+
+  [Helmholtz Institute Mainz](https://www.helmholtz-mainz.de/) ·
+  [Prof. Dmitry Budker](https://budker.uni-mainz.de/)
+
+---
+
+- **QUIP Summer School on Quantum Sensing**, Mainz, Germany (17–22 Aug 2025)
+
+  Johannes Gutenberg University Mainz.
+
+  [Summer School](https://www.quantum-rlp.de/en/quip-summer-school-on-quantum-sensing-a-great-success-2/)
+
+---
+
+- **Research Visitor**, Helmholtz Institute Mainz, Germany (Jul 2024)
+
+  Research visit to the laboratory of **Prof. Dmitry Budker**.
+
+  [Helmholtz Institute Mainz](https://www.helmholtz-mainz.de/) ·
+  [Prof. Dmitry Budker](https://budker.uni-mainz.de/)
+
+---
+
+- **MUQUABIS Collaboration Meeting**, Mainz, Germany (25–26 Jul 2024)
+
+  Invited talk: *Quantum Magnetic Sensing*.
+
+  [Project](https://sites.google.com/lens.unifi.it/muquabis-project/home?authuser=0) ·
+  [Meeting](https://drive.google.com/file/d/1PI5sGJ8arlAfiWNRvpuwZtb8bm3m9NAm/view?usp=sharing) ·
+  [Presentation](https://docs.google.com/presentation/d/1tneuL9Ifp1GtHwqowDXlykci__60qvM_/edit?usp=sharing&ouid=101270128518525601227&rtpof=true&sd=true)
+
+---
+
+- **International Magnetic Resonance Symposium**, Weizmann Institute of Science, Rehovot, Israel (4–5 Jun 2024)
+
+  Poster: *Quantum Sensing and Imaging of van der Waals Ferromagnets using Nitrogen-Vacancy Centers.*
+
+  [Conference](https://conferences.weizmann.ac.il/AIMRS2023/program) ·
+  [Poster](https://drive.google.com/file/d/16Sx42eePYE__WOjwVbC4ehP_Jo6QaOUv/view)
+
+---
+
+- **Nano Center Annual Conference 2024**, Hebrew University of Jerusalem (1–2 May 2024)
+
+  Poster: *Quantum Sensing and Imaging of van der Waals Ferromagnets using Nitrogen-Vacancy Centers.*
+
+  [Conference](https://nano.huji.ac.il/event/nano-center-annual-conference-2024) ·
+  [Poster](https://drive.google.com/file/d/16Sx42eePYE__WOjwVbC4ehP_Jo6QaOUv/view)
+
+---
+
+- **Research Visitor**, Helmholtz Institute Mainz, Germany (Mar 2024)
+
+  Research visit to the laboratory of **Prof. Dmitry Budker**.
+
+  [Helmholtz Institute Mainz](https://www.helmholtz-mainz.de/) ·
+  [Prof. Dmitry Budker](https://budker.uni-mainz.de/)
+
+---
+
+- **Hasselt Diamond Workshop (SBDD XXVIII)**, Hasselt University, Belgium (28 Feb–1 Mar 2024)
+
+  Poster: *Magnetic Domains Imaging of Ferromagnetic Fe₅GeTe₂ using Nitrogen Vacancy Defects in Diamond at Ambient Temperature.*
+
+  [Workshop](https://www.uhasselt.be/en/events-en/recuring-events/hasselt-diamond-workshop-sbdd) ·
+  [Poster](https://drive.google.com/file/d/16Sx42eePYE__WOjwVbC4ehP_Jo6QaOUv/view)
+
+---
+
+- **Hebrew University Quantum Center Annual Retreat**, Ashkelon, Israel (6–7 Sep 2023)
+
+  [Retreat](https://qcent.huji.ac.il/event/quantum-center-annual-retreat-2023)
+
+---
+
+- **AMMCS 2019**, Wilfrid Laurier University, Waterloo, Canada (18–23 Aug 2019)
+
+  Invited talk: *Experimental Detection of Qubit–Ququart Pseudo-Bound Entanglement using Three Nuclear Spins.*
+
+  [Conference](https://ammcs.wlu.ca/2019/) ·
+  [Presentation](https://drive.google.com/file/d/14oGzbwIgvLu013HzBZ5mR2wlXobV_T7-/view?usp=sharing)
+
+---
+
+- **APCWQIS 2018**, IISER Kolkata, India (19–23 Dec 2018)
+
+  Poster: *Experimental Detection of Qubit–Ququart Pseudo-Bound Entanglement using Three Nuclear Spins.*
+
+  [Conference](https://www.iiserkol.ac.in/~apcwqis2018/) ·
+  [Poster](https://drive.google.com/file/d/1kSqsaAA_g20VB_TjZvBQOTFtdSLivkOS/view)
+
+---
+
+- **QIPA 2018**, Harish-Chandra Research Institute, India (2–8 Dec 2018)
+
+  Poster: *Experimentally Identifying the Entanglement Class of Pure Tripartite States.*
+
+  [Conference](https://www.hri.res.in/~confqic/qipa18/index.html) ·
+  [Poster](https://doi.org/10.1007/s11128-018-2105-5)
+
+---
+
+- **DPSM-QFT 2018**, University of Cologne, Germany (21–23 Aug 2018)
+
+  Poster: *Experimental Classification of Entanglement in Arbitrary Three-Qubit States.*
+
+  [Poster](https://drive.google.com/file/d/1xNG3EvRUC-HlUncHKNzqNYNaZCqbHnPb/view?usp=sharing)
+
+---
+
+- **QFF 2018**, Raman Research Institute, India (30 Apr–4 May 2018)
+
+  [Conference](https://www.rri.res.in/~qff2018/menu.php) ·
+  [Poster](https://drive.google.com/file/d/1xNG3EvRUC-HlUncHKNzqNYNaZCqbHnPb/view?usp=sharing)
+
+---
+
+- **NMRS 2018**, IISER Mohali, India (16–19 Feb 2018)
+
+  Poster: *Experimental Entanglement Detection of Unknown Tripartite States using Single Subsystem Measurements.*
+
+  [Poster](https://sites.google.com/site/amandeepsidhuiiserm/)
+
+---
+
+- **Research Visitor**, Institute for Quantum Computing, University of Waterloo, Canada (Aug 2017)
+
+  Research visit to the group of **Prof. Raymond Laflamme**.
+
+---
+
+- **CCIOS 2017**, Perimeter Institute, Waterloo, Canada (24–28 Jul 2017)
+
+  [Conference](https://www2.perimeterinstitute.ca/conferences/contextuality-conceptual-issues-operational-signatures-and-applications) ·
+  [Poster](https://drive.google.com/file/d/0B6QyvwxCmPAkUktMSDd0XzE5OGs/view?usp=sharing)
+
+---
+
+- **APNMR 2017**, IISc Bangalore, India (16–19 Feb 2017)
+
+  Invited talk: *Characterizing Quantum Correlations.*
+
+  [Conference](https://www.iisc.ac.in/events/four-day-symposium-j-n-tata-auditorium/) ·
+  [Presentation](https://drive.google.com/file/d/0B6QyvwxCmPAkU1g5UDdFMnAwVlk/view?usp=drive_web)
+
+---
+
+- **NMRS 2016**, IIT Kharagpur, India (18–21 Feb 2016)
+
+  [Conference](http://www.chemistry.iitkgp.ac.in/~nmrs/index.html) ·
+  [Poster](https://drive.google.com/file/d/0B6QyvwxCmPAkVUt1M0N4VGVnS1k/view?usp=drive_web)
+
+---
+
+- **NMRS 2015**, Guru Nanak Dev University, India (6–9 Mar 2015)
+
+  [Poster](https://drive.google.com/file/d/0B6QyvwxCmPAkLXVrcW1la2l0d2s/view)
+
+---
+
+- **Meeting on Quantum Simulations (QS-2013)**, IISc Bangalore, India (2–3 Sep 2013)
+
+---
+
+# Professional Service
+
+- Reviewer for **APS Physical Review** and **Physical Review Letters**.
+
+- Mentor for Postdoctoral Fellows, Faculty of Sciences, Hebrew University of Jerusalem (Feb 2025–Present).
+
+---
+
+# Research Profiles
+
+<div class="research-profiles">
+
+<a href="https://scholar.google.com/citations?user=-YKvXEYAAAAJ&hl=en" target="_blank">
+<img src="../assets/icons/google-scholar.svg" alt="Google Scholar" width="28">
+</a>
+
+<a href="https://orcid.org/0000-0001-5170-6511" target="_blank">
+<img src="../assets/icons/orcid.svg" alt="ORCID" width="28">
+</a>
+
+<a href="https://www.scopus.com/authid/detail.uri?authorId=57192386599" target="_blank">
+<img src="../assets/icons/scopus.svg" alt="Scopus" width="28">
+</a>
+
+<a href="https://www.researchgate.net/profile/Amandeep-Singh-46" target="_blank">
+<img src="../assets/icons/researchgate.svg" alt="ResearchGate" width="28">
+</a>
+
+<a href="https://arxiv.org/a/singh_a_3.html" target="_blank">
+<img src="../assets/icons/arxiv.svg" alt="arXiv" width="28">
+</a>
+
+<a href="https://github.com/AmandeepQLab" target="_blank">
+<img src="../assets/icons/github.svg" alt="GitHub" width="28">
+</a>
+
+</div>
