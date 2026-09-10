@@ -1,3 +1,53 @@
-# Teaching
+---
+title: "Teaching, Mentoring & Curriculum Development"
+page-layout: full
+toc: true
+---
 
-This page is under construction.
+## Teaching Overview
+
+My teaching experience spans [Lovely Professional University](https://www.lpu.in/), [IISER Mohali](https://www.iisermohali.ac.in/), and [Chandigarh University](https://www.cuchd.in/), covering undergraduate and postgraduate Physics students as well as undergraduate engineering students. This experience includes both theory and laboratory teaching across a broad range of Physics topics. My broader experimental-physics research background has also shaped an approach to teaching that connects conceptual understanding and mathematical reasoning with problem-solving and hands-on experimental learning.
+
+## Teaching Experience
+
+### [Chandigarh University](https://www.cuchd.in/)
+
+**Visiting Faculty, Department of Physics**  
+*Gharuan, Mohali, Punjab, India · Nov 2021 – Sep 2022*
+
+Taught core Physics courses to both B.Sc. and M.Sc. Physics students. At the **B.Sc. level**, courses included Electricity & Magnetism, Waves & Optics, Statistical Physics & Thermodynamics, and Quantum Mechanics. At the **M.Sc. Physics level**, courses included Classical Mechanics, Statistical Mechanics, and Mathematical Physics.
+
+### [IISER Mohali](https://www.iisermohali.ac.in/)
+
+**Teaching Assistant, Department of Physical Sciences**  
+*Mohali (SAS Nagar), Punjab, India · Jan 2013 – May 2014*
+
+Assisted with undergraduate Physics laboratory teaching, including the smooth conduct of experiments and troubleshooting conceptual and experimental difficulties encountered by students. Student assessment included regular discussion and viva-voce. Assisted in establishing the undergraduate **Nuclear Physics Laboratory**.
+
+### [Lovely Professional University](https://www.lpu.in/)
+
+**University Physics Lecturer and Assistant Professor of Physics**  
+*Phagwara, Punjab, India · Sep 2007 – Dec 2012*
+
+Taught undergraduate theory and laboratory Physics courses to engineering students, progressing from **University Physics Lecturer** to **Assistant Professor of Physics** during this period. Courses included Mechanics, Waves & Oscillations, Electricity & Magnetism, Optics, Modern Physics, and Physics Lab-I & II.
+
+## Curriculum & Faculty Development
+
+At [Lovely Professional University](https://www.lpu.in/), played an active role in designing and developing undergraduate Physics curricula, courses, and pedagogical tools, alongside participation in university-level course management.
+
+Faculty development formed a particularly important part of this work. Conducted lectures, seminars, and laboratory demonstrations for **Physics faculty members**, with an emphasis on effective approaches to undergraduate Physics teaching and the integration of conceptual, theoretical, and experimental learning.
+
+Received formal recognition from the Vice-Chancellor, **Dr. Vijay Gupta**, for faculty-development activities.
+
+## Mentoring
+
+### [The Hebrew University of Jerusalem](https://www.huji.ac.il/)
+
+**Mentor for Postdoctoral Fellows — Faculty of Sciences**  
+*Jerusalem, Israel · Feb 2025 – Present*
+
+Informal peer mentoring and support for fellow postdoctoral researchers, combining academic guidance, career and professional development, research discussion, and collaborative problem-solving; this is not a formal supervisory appointment.
+
+## Teaching Philosophy
+
+Effective Physics teaching should integrate conceptual understanding, mathematical reasoning, structured problem-solving, and hands-on experimental learning. Theoretical ideas become more meaningful when students can connect mathematical descriptions to observable physical phenomena, test assumptions experimentally, and understand the relationship between idealized models and real measurements. This approach aims to develop both physical intuition and technical competence while encouraging students to reason independently, ask critical questions, and approach unfamiliar problems systematically.
