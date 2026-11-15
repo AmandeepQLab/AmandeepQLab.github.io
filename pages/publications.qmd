@@ -10,13 +10,13 @@ My research focuses on **quantum information processing**, **quantum sensing**, 
 
 ---
 
-**Magnetic Microscopy of Skyrmions in Magnetic Thin Films with Chiral Overlayers**
+- **Magnetic Microscopy of Skyrmions in Magnetic Thin Films with Chiral Overlayers**
 
-Buddhika Hondamuni, Théo Balland, Fabian Kammerbauer, Ashish Moharana, Bindu, **Amandeep Singh**, Meital Ozeri, Shira Yochelis, Yossi Paltiel, Omkar Dhungel, Zeeshawn Kazi, Kai-Mei C. Fu, Hideyuki Watanabe, Mathias Kläui, Arne Wickenbrock, Nir Bar-Gill, Angela Wittmann, and Dmitry Budker  
+  Buddhika Hondamuni, Théo Balland, Fabian Kammerbauer, Ashish Moharana, Bindu, **Amandeep Singh**, Meital Ozeri, Shira Yochelis, Yossi Paltiel, Omkar Dhungel, Zeeshawn Kazi, Kai-Mei C. Fu, Hideyuki Watanabe, Mathias Kläui, Arne Wickenbrock, Nir Bar-Gill, Angela Wittmann, and Dmitry Budker  
 
-*Phys. Rev. Applied*  **26**, 044075 (2026)  
+  *Phys. Rev. Applied*  **26**, 044075 (2026)  
 
-[Journal](https://doi.org/10.1103/thmz-53f2)
+  [Journal](https://doi.org/10.1103/thmz-53f2)
 
 ---
 
