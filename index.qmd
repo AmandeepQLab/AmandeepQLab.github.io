@@ -233,6 +233,11 @@ Event Camera • Widefield NV • High-Speed Imaging
 
 ::: {.pub-list}
 
+**[Magnetic Microscopy of Skyrmions in Magnetic Thin Films with Chiral Overlayers](https://journals.aps.org/prapplied/abstract/10.1103/thmz-53f2)**  
+Buddhika Hondamuni et al., incl. Amandeep Singh, Nir Bar-Gill, and Dmitry Budker · *Physical Review Applied* · 2026
+
+---
+
 **[Quantum Imaging of Ferromagnetic van der Waals Magnetic Domain Structures at Ambient Conditions](https://pubs.acs.org/doi/10.1021/acsami.5c16352)**  
 Bindu\*, Amandeep Singh\*, et al. · *ACS Applied Materials & Interfaces* · 2025
 
@@ -240,11 +245,6 @@ Bindu\*, Amandeep Singh\*, et al. · *ACS Applied Materials & Interfaces* · 202
 
 **[Experimental Quantum Principal Component Analysis via Parameterized Quantum Circuits](https://doi.org/10.1103/PhysRevLett.126.110502)**  
 Tao Xin, Liangyu Che, Cheng Xi, Amandeep Singh, et al. · *Physical Review Letters* · 2021
-
----
-
-**[Experimental Classification of Entanglement in Arbitrary Three-Qubit Pure States on an NMR Quantum Information Processor](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.032301)**  
-Amandeep Singh, Harpreet Singh, Kavita Dorai, and Arvind · *Physical Review A* · 2018
 
 :::
 
