@@ -541,3 +541,14 @@ h3 + p {
 .research-profiles img {
     display: block;
 }
+/* ==========================================================
+   Publication List style
+   ========================================================== */
+
+.pub-list {
+  border-left: 3px solid var(--bs-primary, #0d6efd);
+  padding-left: 1.25rem;
+}
+.pub-list hr {
+  opacity: 0.2;
+}
