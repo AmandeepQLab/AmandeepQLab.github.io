@@ -1,3 +1,54 @@
-# Contact
+---
+title: "Contact"
+page-layout: full
+---
 
-This page is under construction.
+I am always open to discussions about quantum sensing, collaborations, open-source software, or general scientific exchange. Feel free to reach out.
+
+---
+
+## Get in Touch
+
+<a href="mailto:www.amansidhu.com@gmail.com" class="btn btn-primary">
+  <i class="bi bi-envelope"></i> Send Email
+</a>
+
+---
+
+## Find Me Online
+
+<div class="research-profiles">
+
+<a href="https://scholar.google.com/citations?user=-YKvXEYAAAAJ&hl=en" target="_blank">
+<img src="../assets/icons/google-scholar.svg" alt="Google Scholar" width="28">
+</a>
+
+<a href="https://orcid.org/0000-0001-5170-6511" target="_blank">
+<img src="../assets/icons/orcid.svg" alt="ORCID" width="28">
+</a>
+
+<a href="https://www.scopus.com/authid/detail.uri?authorId=57192386599" target="_blank">
+<img src="../assets/icons/scopus.svg" alt="Scopus" width="28">
+</a>
+
+<a href="https://www.researchgate.net/profile/Amandeep-Singh-46" target="_blank">
+<img src="../assets/icons/researchgate.svg" alt="ResearchGate" width="28">
+</a>
+
+<a href="https://arxiv.org/a/singh_a_3.html" target="_blank">
+<img src="../assets/icons/arxiv.svg" alt="arXiv" width="28">
+</a>
+
+<a href="https://github.com/AmandeepQLab" target="_blank">
+<img src="../assets/icons/github.svg" alt="GitHub" width="28">
+</a>
+
+</div>
+
+---
+
+## Location
+
+Institute of Applied Physics  
+The Hebrew University of Jerusalem  
+Jerusalem, Israel
