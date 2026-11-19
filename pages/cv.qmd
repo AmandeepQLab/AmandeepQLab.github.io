@@ -1,3 +1,11 @@
-# CV
+---
+title: "CV"
+page-layout: full
+---
 
-This page is under construction.
+## Curriculum Vitae
+
+<a href="https://raw.githubusercontent.com/AmandeepQLab/Aman-CV/main/CV_Aman.pdf" 
+   class="btn btn-primary" target="_blank">
+  <i class="bi bi-file-earmark-pdf"></i> Download CV (PDF)
+</a>
