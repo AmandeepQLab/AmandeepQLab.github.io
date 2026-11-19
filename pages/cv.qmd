@@ -5,7 +5,6 @@ page-layout: full
 
 ## Curriculum Vitae
 
-<a href="https://raw.githubusercontent.com/AmandeepQLab/Aman-CV/main/CV_Aman.pdf" 
-   class="btn btn-primary" target="_blank">
+<a href="/assets/CV_Aman.pdf" class="btn btn-primary" target="_blank">
   <i class="bi bi-file-earmark-pdf"></i> Download CV (PDF)
 </a>
