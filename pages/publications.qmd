@@ -22,7 +22,7 @@ My research focuses on **quantum information processing**, **quantum sensing**, 
 
 - **Quantum Imaging of Ferromagnetic van der Waals Magnetic Domain Structures at Ambient Conditions**
 
-  Bindu*, **Amandeep Singh***, Amir Hen, Lukas Drago Čavar, Sebastian Maria Ulrich Schultheis, Israel Felner, Shira Yochelis, Yossi Paltiel, Andrew F. May, Angela Wittmann, Mathias Kläui, Dmitry Budker, Hadar Steinberg and Nir Bar-Gill.
+  Bindu*, **Amandeep Singh***, Amir Hen, Lukas Drago Čavar, Sebastian Maria Ulrich Schultheis, Shira Yochelis, Yossi Paltiel, Andrew F. May, Angela Wittmann, Mathias Kläui, Dmitry Budker, Hadar Steinberg and Nir Bar-Gill.
 
   *ACS Applied Materials & Interfaces* **17**, 63956–63967 (2025)
 
