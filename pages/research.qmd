@@ -1,3 +1,137 @@
-# Research
+---
+title: "Research"
+page-layout: full
+toc: true
+---
 
-This page is under construction.
+## Overview
+
+My research sits at the intersection of quantum sensing, precision instrumentation, and
+scientific software. I work with nitrogen-vacancy (NV) centers in diamond — atom-sized
+quantum sensors that can detect magnetic fields, electric fields, and temperature with
+nanoscale spatial resolution at room temperature. My goal is to push the limits of what
+these sensors can image and measure, and to build the instrumentation and software
+infrastructure that makes advanced quantum sensing experiments accessible and reproducible.
+
+---
+
+## Quantum Sensing
+
+NV centers in diamond are among the most versatile solid-state quantum sensors available
+today. Their long spin coherence times at room temperature, combined with all-optical
+initialization and readout, make them ideal for precision sensing of magnetic and electric
+fields, strain, and temperature. My work focuses on optically detected magnetic resonance
+(ODMR) and electron spin resonance (ESR) spectroscopy of NV ensembles, characterizing
+spin coherence properties (T₁, T₂, T₂*) in CVD-grown diamond samples, and understanding
+the role of nitrogen concentration and charge-state conversion in determining sensor
+performance. Alongside magnetometry, I also work on bio-sensing with NV centers and on
+ferromagnetic resonance (FMR) and spin-wave generation and detection in thin-film
+magnetic heterostructures.
+
+---
+
+## Quantum Magnetic Imaging
+
+I build and operate wide-field NV-diamond quantum sensing microscopes for magnetic
+imaging at the microscale. By illuminating a diamond with a dense NV ensemble under a
+wide-field fluorescence microscope, it is possible to reconstruct full two-dimensional
+magnetic field maps with diffraction-limited spatial resolution over a large field of view —
+simultaneously and without scanning.
+
+Recent work has applied this platform to imaging magnetic domain structures in
+ferromagnetic van der Waals materials and skyrmions in magnetic thin films with chiral
+overlayers, demonstrating the capability of NV microscopy to resolve nanoscale magnetic
+textures in novel materials at ambient conditions. An ongoing direction is microwave-free
+quantum magnetic imaging using high-density NV ensembles, which eliminates the need for
+resonant microwave driving and extends the technique to magnetically sensitive samples.
+
+---
+
+## Neuromorphic Quantum Imaging
+
+A central theme of my current research is high-speed quantum magnetic imaging using
+neuromorphic, event-based sensors. Event cameras — inspired by the biological retina —
+report pixel-level brightness changes asynchronously, with microsecond temporal resolution
+and very high dynamic range, rather than capturing full frames at a fixed rate. Integrating
+event cameras with wide-field NV microscopy opens a path to information-efficient,
+high-speed imaging of dynamic magnetic processes that would otherwise be inaccessible
+with conventional sCMOS or CCD detectors.
+
+---
+
+## Quantum Control
+
+Realizing the full sensitivity potential of NV ensembles requires precise quantum control
+of the spin states. I work on pulse engineering for NV systems, including dynamical
+decoupling sequences that extend spin coherence, and real-time experiment control using
+the Quantum Machines OPX platform. Accurate microwave pulse calibration, phase control,
+and synchronization with optical excitation and detection are critical to all pulsed
+measurements — from Rabi oscillations and Ramsey spectroscopy to more advanced
+quantum control protocols.
+
+---
+
+## Scientific Software
+
+I develop open-source software for NV-center experiments, with a focus on modularity
+and instrument abstraction. The [NV Control Framework](https://github.com/AmandeepQLab/NV-Control-Framework)
+is a Python/PyQt6 application for automated control of confocal and wide-field NV
+experiments, integrating drivers for cameras, signal generators, pulse streamers, and
+positioning stages into a single coherent interface. Reproducible, well-documented
+experimental software is an integral part of how I do science.
+
+---
+
+## Nanofabrication
+
+Diamond processing and surface preparation are essential to NV-sensing performance.
+I am a licensed user of the HUJI Center for Nanoscience and Nanotechnology, with
+hands-on experience in atomic force microscopy (AFM) and magnetic force microscopy (MFM),
+Elionix electron-beam lithography (including PMMA nanolayers on glass/silicon),
+Microtech LW405B laser writing, and ellipsometry — used for characterizing and preparing
+diamond surfaces and thin-film heterostructures for quantum sensing experiments.
+
+---
+
+## Previous Research
+
+Before transitioning to NV-center quantum sensing, I worked in NMR quantum information
+processing. During my PhD at IISER Mohali (2013–2019, supervisors: Prof. Kavita Dorai and
+Prof. Arvind) and a subsequent postdoc at SUSTech, Shenzhen (2019–2021, group of
+Prof. Dawei Lu), I developed and ran NMR experiments for entanglement detection and
+classification, quantum process tomography, non-local correlation detection, and
+experimental quantum principal component analysis. This work resulted in nine
+peer-reviewed publications in journals including *Physical Review Letters*,
+*Physical Review A*, and *European Physical Journal D*.
+
+---
+
+## Research Profiles
+
+<div class="research-profiles">
+
+<a href="https://scholar.google.com/citations?user=-YKvXEYAAAAJ&hl=en" target="_blank">
+<img src="../assets/icons/google-scholar.svg" alt="Google Scholar" width="28">
+</a>
+
+<a href="https://orcid.org/0000-0001-5170-6511" target="_blank">
+<img src="../assets/icons/orcid.svg" alt="ORCID" width="28">
+</a>
+
+<a href="https://www.scopus.com/authid/detail.uri?authorId=57192386599" target="_blank">
+<img src="../assets/icons/scopus.svg" alt="Scopus" width="28">
+</a>
+
+<a href="https://www.researchgate.net/profile/Amandeep-Singh-46" target="_blank">
+<img src="../assets/icons/researchgate.svg" alt="ResearchGate" width="28">
+</a>
+
+<a href="https://arxiv.org/a/singh_a_3.html" target="_blank">
+<img src="../assets/icons/arxiv.svg" alt="arXiv" width="28">
+</a>
+
+<a href="https://github.com/AmandeepQLab" target="_blank">
+<img src="../assets/icons/github.svg" alt="GitHub" width="28">
+</a>
+
+</div>
